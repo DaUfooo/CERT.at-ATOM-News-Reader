@@ -1,0 +1,6 @@
+######################################
+# DaUfooo´s CERT.at ATOM News-Reader #
+######################################
+
+Dieser PowerShell-Skript ist ein News-Reader für den CERT.at Atom-Feed, der Sicherheitswarnungen ausliest und in verschiedenen Formaten ausgibt.
+Der Hauptzweck des Skripts ist es, Sicherheitswarnungen von CERT.at zu präsentieren und zusätzlich die Möglichkeit zu bieten, den Text laut vorzulesen.
